@@ -26,7 +26,7 @@ while True:
     #LOGIC
     #DRAW
 
-    pygame.draw.line(screen, clr2, (0, 0),(640, 360))
+    pygame.draw.line(screen, clr2, (0, 0), (640, 360))
 
     pygame.display.flip()
     #DRAW
